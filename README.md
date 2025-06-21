@@ -1,7 +1,6 @@
-
 # 📚 Student's Exam Performance Analysis
 
-A beginner-friendly data analytics project focused on analyzing students' academic performance using Python, Pandas, Matplotlib, and Seaborn. This project visualizes subject-wise scores, overall trends, and key insights using engaging charts and summaries.
+A beginner-friendly data analytics project focused on analyzing student's academic performance using Python, Pandas, Matplotlib, and Seaborn. This project visualizes subject-wise scores, overall trends, and key insights using engaging charts and summaries.
 
 ---
 
@@ -31,39 +30,13 @@ This project uses a dataset of students' exam results across multiple subjects t
 
 ---
 
-## 📊 Visualizations Preview
-
-Here are some sample visualizations from the project:
-
-### 📊 Bar Chart – Subject-wise Average Scores
-![Bar Chart](images/bar_chart.png)
-
-### 📈 Line Plot – Student Performance Over Subjects
-![Line Plot](images/line_plot.png)
-
-### 🧮 Pie Chart – Distribution of Scores
-![Pie Chart](images/pie_chart.png)
-
-### 📉 Histogram – Score Distribution
-![Histogram](images/histogram.png)
-
-### 🧠 Heatmap – Correlation Between Subjects
-![Heatmap](images/heatmap.png)
-
-### 📋 Boxplot – Score Spread by Subject
-![Boxplot](images/boxplot.png)
-
-*(Place these images in an `images/` folder inside your project directory.)*
-
----
-
 ## 📈 HTML Visualization Preview
 
-📂 [Download and open the notebook preview](./Student_Exam_Result_Preview.html) to see the full analysis with all visualizations.
+📂 [Download and open the notebook preview](Preview/HTML.html) to see the full analysis with all visualizations.
 
 ---
 
-## 🔍 Dataset
+## 📊 Dataset
 
 - Format: CSV (embedded in the notebook)
 - Contains student names and scores in subjects like Math, Science, and English
@@ -89,3 +62,13 @@ Here are some sample visualizations from the project:
 
 ---
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="Preview/1.png"/>
+  <img src="Preview/2.png"/>
+  <img src="Preview/3.png"/>
+  <img src="Preview/4.png"/>
+  <img src="Preview/5.png"/>
+  <img src="Preview/6.png"/>
+</p>
