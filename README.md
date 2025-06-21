@@ -16,7 +16,6 @@ This project uses a dataset of students' exam results across multiple subjects t
 - Summary statistics: average, max, min, standard deviation
 - Visual insights through bar plots and pie charts
 - Clean and modular code using Jupyter Notebook
-- Interactive HTML preview of the entire notebook
 
 ---
 
@@ -27,12 +26,6 @@ This project uses a dataset of students' exam results across multiple subjects t
 - **Matplotlib** – for basic data visualization
 - **Seaborn** – for advanced and aesthetically pleasing plots
 - **Jupyter Notebook**
-
----
-
-## 📈 HTML Visualization Preview
-
-📂 [Download and open the notebook preview](Preview/HTML.html) to see the full analysis with all visualizations.
 
 ---
 
